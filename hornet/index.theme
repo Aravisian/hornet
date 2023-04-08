@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Hornet
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Hornet
+MetacityTheme=Hornet
+ButtonLayout=menu:minimize,maximize,close
